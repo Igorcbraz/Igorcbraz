@@ -5,8 +5,6 @@
 
 - 🌱 Estou aprendendo **JavaScript, Jquery, C#, HTML, CSS, Boostrap**
 
-- 📫 Entre em contato **igorcbraz1@gmail.com**
-
 - 📄 Minhas experiências: Desgin [@Igorcbraz_Design](https://www.instagram.com/igorcbrazdesign/)
 
 <h3 align="left">Se conecte comigo:</h3>
