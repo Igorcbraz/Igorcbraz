@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Igor Braz</h1>
+<h1 align="center">Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;">, Eu sou o Igor Braz</h1>
 <h3 align="center"> 👨‍💻 Estudando Desenvolvimento de Sistemas e buscando aprender cada dia mais 👨‍💻</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorcbraz&show_icons=true&theme=blueberry)
