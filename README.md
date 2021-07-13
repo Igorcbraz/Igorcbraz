@@ -10,8 +10,6 @@
 <br>
 
 <h3 align="left">&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🧠 Atualmente projetando:
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                 ⚡ Linguagens e Ferramentas:
 </h3>
 <a href="https://github.com/Igorcbraz/Buscafe">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Igorcbraz&repo=Buscafe&theme=blueberry" />
