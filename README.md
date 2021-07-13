@@ -21,7 +21,7 @@
 
 <hr>
 <p align="right">
-<a href="mailto:igorcbraz@gmail.com" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20rem" style="max-width:100%;"></a>
+<a href="mailto:igorcbraz1@gmail.com" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.instagram.com/igorcbraz/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/igor-costa-braz-2ab822208/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.behance.net/igorcbraz" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=whit" height="20rem" style="max-width:100%;"></a> </p>
