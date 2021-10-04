@@ -1,5 +1,5 @@
-<h1 align="center">Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;">, Eu sou o Igor Braz !!</h1>
-<h3 align="center"> 👨‍💻 Estudando Desenvolvimento de Sistemas e buscando aprender cada dia mais 👨‍💻</h3>
+<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;"> I'm Igor Braz !!</h1>
+<h3 align="center"> 👨‍💻 I'm studying software development and seeking to learn more each day 👨‍💻</h3>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🧠 Atualmente projetando:
+<h3 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🧠 Currently working on:
 </h3>
 <a href="https://github.com/Igorcbraz/Buscafe">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Igorcbraz&repo=Buscafe&theme=blueberry" />
