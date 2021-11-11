@@ -35,3 +35,4 @@
 <a href="https://www.linkedin.com/in/igor-costa-braz-2ab822208/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.behance.net/igorcbraz" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=whit" height="20rem" style="max-width:100%;"></a> </p>
 
+![Snake animation](https://github.com/Igorcbraz/Igorcbraz/blob/output/github-contribution-grid-snake.svg)
