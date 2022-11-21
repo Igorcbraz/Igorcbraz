@@ -9,15 +9,9 @@
 
 <br>
 
-<h3 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🧠 Currently working on:
-</h3>
-<a href="https://github.com/Igorcbraz/Buscafe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Igorcbraz&repo=Buscafe&theme=blueberry" />
-</a>
+<img alt="GIF" align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="120rem" style="max-width:100%;">
 
-<img alt="GIF" align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="120rem" style="max-width:100%;">
-
-<p align="right"> 
+<p align="center"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactJS" width="30" height="30"/> </a>
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactJS" width="30" height="30"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="reactJS" width="30" height="30"/> </a>
@@ -29,10 +23,11 @@
  </p>
 
 <hr>
-<p align="right">
+<p align="center">
 <a href="mailto:igorcbraz1@gmail.com" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.instagram.com/igorcbraz/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/igor-costa-braz-2ab822208/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.behance.net/igorcbraz" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=whit" height="20rem" style="max-width:100%;"></a> </p>
 
-![Snake animation](https://github.com/Igorcbraz/Igorcbraz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Igorcbraz/Igorcbraz/blob/output/github-contribution-grid-snake.svg)
+  
