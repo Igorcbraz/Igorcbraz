@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="5%"> I'm <a href="https://igorcbraz.me/">Igor Braz</a> !!</h1>
-<h3 align="center"> 👨‍💻 I'm studying software development and seeking to learn more each day 👨‍💻</h3>
+<h3 align="center"> 👨‍💻 I'm software developer and seeking to learn more each day 👨‍💻</h3>
 
 <br>
 
@@ -25,8 +25,7 @@
 <p align="center">
 <a href="mailto:igorcbraz1@gmail.com" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.instagram.com/igorcbraz/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20rem" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/igor-costa-braz-2ab822208/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a>
-<a href="https://www.behance.net/igorcbraz" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=whit" height="20rem" style="max-width:100%;"></a> </p>
+<a href="https://www.linkedin.com/in/igor-costa-braz-2ab822208/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a></p>
 
   ![Snake animation](https://github.com/Igorcbraz/Igorcbraz/blob/output/github-contribution-grid-snake.svg)
   
