@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="5%"> I'm <a href="https://igorcbraz.me/">Igor Braz</a> !!</h1>
+<h1 align="center">Hi there I'm <a href="https://igorcbraz.me/">Igor Braz</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="5%"></h1>
 <h3 align="center"> 👨‍💻 I'm software developer and seeking to learn more each day 👨‍💻</h3>
 
 <br>
