@@ -15,6 +15,7 @@
 <p align="center"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactJS" width="30" height="30"/> </a>
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactJS" width="30" height="30"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" width="30" height="30"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="reactJS" width="30" height="30"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgres" width="30" height="30"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
@@ -24,7 +25,6 @@
 <hr>
 <p align="center">
 <a href="mailto:igorcbraz1@gmail.com" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20rem" style="max-width:100%;"></a>
-<a href="https://www.instagram.com/igorcbraz/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/igor-costa-braz-2ab822208/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a></p>
 
   ![Snake animation](https://github.com/Igorcbraz/Igorcbraz/blob/output/github-contribution-grid-snake.svg)
