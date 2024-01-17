@@ -4,7 +4,8 @@
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Igorcbraz&show_icons=true&theme=blueberry" style="max-width:100%;"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcbraz&layout=compact&theme=blueberry" style="max-width:100%;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Igorcbraz&show_icons=true&theme=blueberry&rank_icon=github" style="max-width:100%;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcbraz&layout=compact&theme=blueberry&hide=php" style="max-width:100%;">
 </div>
 
 <br>
@@ -14,7 +15,6 @@
 <p align="center"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactJS" width="30" height="30"/> </a>
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactJS" width="30" height="30"/> </a>
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="reactJS" width="30" height="30"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="reactJS" width="30" height="30"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgres" width="30" height="30"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
