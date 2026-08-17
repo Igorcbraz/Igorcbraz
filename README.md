@@ -1,6 +1,6 @@
-<a href="https://git-ascii.vercel.app">
+<a href="https://www.gitascii.com">
   <img
-    src="https://git-ascii.vercel.app/api/Igorcbraz?v=1786067911638"
+    src="https://www.gitascii.com/api/Igorcbraz?v=1786926061007"
     alt="GitAscii Widget"
     width="100%"
   />
