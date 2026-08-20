@@ -41,11 +41,11 @@
     {
       "widgetId": "languages",
       "position": {
-        "x": 0,
+        "x": 8,
         "y": 402
       },
       "size": {
-        "width": 800,
+        "width": 624,
         "height": 160
       },
       "config": {
@@ -11575,6 +11575,158 @@
         ],
         "cols": 150,
         "rows": 75
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1787254650356",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget",
+      "position": {
+        "x": 648,
+        "y": 398
+      },
+      "size": {
+        "width": 128,
+        "height": 168
+      },
+      "config": {
+        "searchQuery": "Charizard",
+        "searchCards": [
+          {
+            "id": "pl4-1",
+            "localId": "1",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/pl/pl4/1"
+          },
+          {
+            "id": "gym2-2",
+            "localId": "2",
+            "name": "Blaine's Charizard",
+            "image": "https://assets.tcgdex.net/en/gym/gym2/2"
+          },
+          {
+            "id": "lc-3",
+            "localId": "3",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/lc/lc/3"
+          },
+          {
+            "id": "dp3-3",
+            "localId": "3",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/dp/dp3/3"
+          },
+          {
+            "id": "base5-4",
+            "localId": "4",
+            "name": "Dark Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base5/4"
+          },
+          {
+            "id": "base4-4",
+            "localId": "4",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base4/4"
+          },
+          {
+            "id": "base1-4",
+            "localId": "4",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base1/4"
+          },
+          {
+            "id": "ex14-4",
+            "localId": "4",
+            "name": "Charizard δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex14/4"
+          },
+          {
+            "id": "det1-5",
+            "localId": "5",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/sm/det1/5"
+          },
+          {
+            "id": "sv03.5-006",
+            "localId": "006",
+            "name": "Charizard ex",
+            "image": "https://assets.tcgdex.net/en/sv/sv03.5/006"
+          },
+          {
+            "id": "ecard1-6",
+            "localId": "6",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/6"
+          },
+          {
+            "id": "ex16-6",
+            "localId": "6",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/ex/ex16/6"
+          },
+          {
+            "id": "sm115-9",
+            "localId": "9",
+            "name": "Charizard GX",
+            "image": "https://assets.tcgdex.net/en/sm/sm115/9"
+          },
+          {
+            "id": "A2b-010",
+            "localId": "010",
+            "name": "Charizard ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/A2b/010"
+          },
+          {
+            "id": "swsh10.5-010",
+            "localId": "010",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/010"
+          },
+          {
+            "id": "xy12-11",
+            "localId": "11",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/11"
+          },
+          {
+            "id": "g1-11",
+            "localId": "11",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/g1/11"
+          },
+          {
+            "id": "xy2-11",
+            "localId": "11",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy2/11"
+          },
+          {
+            "id": "swsh10.5-011",
+            "localId": "011",
+            "name": "Radiant Charizard",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/011"
+          },
+          {
+            "id": "xy12-12",
+            "localId": "12",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/12"
+          }
+        ],
+        "imageUrl": "https://assets.tcgdex.net/en/lc/lc/3/high.webp",
+        "rotateX": 0,
+        "rotateY": 0,
+        "glareX": 50,
+        "glareY": 50,
+        "shineX": 50,
+        "shineY": 50,
+        "intensity": 1,
+        "scale": 1,
+        "hideDecorations": true,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
