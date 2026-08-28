@@ -2,101 +2,97 @@
   "username": "Igorcbraz",
   "widgets": [
     {
-      "widgetId": "codeweb-retro-grid",
-      "name": "Codeweb-retro-grid Widget",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
       "position": {
-        "x": 0,
+        "x": 10,
         "y": 0
       },
       "size": {
-        "width": 800,
-        "height": 260
+        "width": 780,
+        "height": 417
       },
       "config": {
-        "selectedTechs": [
-          "ts",
-          "js",
-          "html",
-          "css",
-          "sass",
-          "bash",
-          "vue",
-          "cs",
-          "php",
-          "py",
-          "java",
-          "ruby",
-          "c",
-          "cpp",
-          "docker",
-          "github",
-          "nextjs",
-          "mysql"
-        ]
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
       },
       "locked": false,
       "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1787859457962_0"
+      "instanceId": "widget_1787945412338_0"
     },
     {
-      "widgetId": "codeweb-showcase-cards",
-      "name": "Codeweb-showcase-cards Widget",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
       "position": {
-        "x": 0,
-        "y": 276
+        "x": 10,
+        "y": 417
       },
       "size": {
-        "width": 800,
-        "height": 220
+        "width": 780,
+        "height": 420
       },
-      "config": {},
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Terminal Telemetry"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 2,
-      "instanceId": "widget_1787859457962_1"
+      "instanceId": "widget_1787945412338_1"
     },
     {
-      "widgetId": "codeweb-social-badge",
-      "name": "Codeweb-social-badge Widget",
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
       "position": {
-        "x": 0,
-        "y": 512
+        "x": 10,
+        "y": 845
       },
       "size": {
-        "width": 800,
-        "height": 44
+        "width": 780,
+        "height": 190
       },
       "config": {
-        "platforms": [
-          "medium",
-          "email",
-          "website",
-          "gmail",
-          "linkedin",
-          "x",
-          "github"
-        ],
-        "renderMode": "multi",
-        "showText": true
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Social Feeds"
       },
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1787859457962_2"
+      "instanceId": "widget_1787945412338_2"
+    },
+    {
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 10,
+        "y": 1051
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1787945412338_3"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0a0a14",
-    "textColor": "#d6e0f0",
-    "accentColor": "#6cc382",
-    "borderColor": "#1e1e38",
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "codeweb"
+    "templateStyle": "rugbedbugg"
   },
-  "templateId": "codeweb",
+  "templateId": "rugbedbugg",
   "profileSlug": "test"
 }
