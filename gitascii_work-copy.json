@@ -1,0 +1,44 @@
+{
+  "username": "Igorcbraz",
+  "widgets": [
+    {
+      "instanceId": "widget_1789595655565",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
+      "position": {
+        "x": 288,
+        "y": 24
+      },
+      "size": {
+        "width": 300,
+        "height": 420
+      },
+      "config": {
+        "transparentBackground": true,
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "enableHolo": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0a0a0a",
+    "textColor": "#ffffff",
+    "accentColor": "#c5ff4a",
+    "borderColor": "rgba(255,255,255,0.1)",
+    "fontFamily": "monospace",
+    "borderRadius": 8,
+    "padding": 16,
+    "themeMode": "dark"
+  },
+  "templateId": "terminal",
+  "profileSlug": "work-copy",
+  "metadata": {
+    "revision": "rev_1789595658546_yko3x",
+    "updatedAt": "2026-09-16T21:54:23.971Z"
+  }
+}
