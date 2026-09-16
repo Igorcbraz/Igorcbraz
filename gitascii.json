@@ -67,7 +67,7 @@
       "widgetId": "footer",
       "position": {
         "x": 0,
-        "y": 578
+        "y": 586
       },
       "size": {
         "width": 800,
@@ -11747,7 +11747,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1789598700074_lcl9o",
-    "updatedAt": "2026-09-16T22:45:04.195Z"
+    "revision": "rev_1789599072652_ce1hs",
+    "updatedAt": "2026-09-16T22:51:16.724Z"
   }
 }
