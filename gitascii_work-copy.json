@@ -1,30 +1,11 @@
 {
-  "username": "Igorcbraz",
-  "widgets": [
-    {
-      "instanceId": "widget_1789595655565",
-      "widgetId": "gitfut-card",
-      "name": "Gitfut-card Widget",
-      "position": {
-        "x": 288,
-        "y": 24
-      },
-      "size": {
-        "width": 300,
-        "height": 420
-      },
-      "config": {
-        "transparentBackground": true,
-        "hideBorder": true,
-        "hideDecorations": true,
-        "showTitle": false,
-        "enableHolo": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 1
-    }
-  ],
+  "version": 1,
+  "githubId": 0,
+  "username": "igorcbraz",
+  "profileSlug": "work-copy",
+  "profileName": "Work Profile (Cópia)",
+  "templateId": "terminal",
+  "widgets": [],
   "globalStyles": {
     "backgroundColor": "#0a0a0a",
     "textColor": "#ffffff",
@@ -35,10 +16,11 @@
     "padding": 16,
     "themeMode": "dark"
   },
-  "templateId": "terminal",
-  "profileSlug": "work-copy",
   "metadata": {
-    "revision": "rev_1789595658546_yko3x",
-    "updatedAt": "2026-09-16T21:54:23.971Z"
+    "createdAt": "2026-09-16T21:50:17.999Z",
+    "updatedAt": "2026-09-16T22:05:24.457Z",
+    "schemaVersion": 1,
+    "generatedBy": "manual",
+    "revision": "rev_1789596320913_backup"
   }
 }
