@@ -2,28 +2,24 @@
   "username": "Igorcbraz",
   "widgets": [
     {
-      "widgetId": "header",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
+      "name": "Header Widget",
       "size": {
         "width": 800,
         "height": 90
       },
       "config": {},
       "locked": false,
-      "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1786925881066_0",
-      "name": "Header Widget"
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "widgetId": "header",
+      "instanceId": "widget_1786925881066_0"
     },
     {
-      "widgetId": "terminal-info",
-      "position": {
-        "x": 296,
-        "y": 106
-      },
+      "name": "Terminal-info Widget",
       "size": {
         "width": 504,
         "height": 280
@@ -33,67 +29,66 @@
         "animationPreviewKey": 5
       },
       "locked": false,
-      "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1786925881066_2",
-      "name": "Terminal-info Widget"
+      "visible": true,
+      "position": {
+        "x": 296,
+        "y": 106
+      },
+      "widgetId": "terminal-info",
+      "instanceId": "widget_1786925881066_2"
     },
     {
-      "widgetId": "languages",
-      "position": {
-        "x": 8,
-        "y": 402
-      },
+      "name": "Languages Widget",
       "size": {
         "width": 624,
         "height": 160
       },
       "config": {
+        "hideLangs": "HTML,CSS,C#,PHP",
         "hideLangsArr": [
           "HTML",
           "CSS",
           "C#",
           "PHP"
-        ],
-        "hideLangs": "HTML,CSS,C#,PHP"
+        ]
       },
       "locked": false,
-      "visible": true,
       "zIndex": 4,
-      "instanceId": "widget_1786925881066_3",
-      "name": "Languages Widget"
+      "visible": true,
+      "position": {
+        "x": 8,
+        "y": 402
+      },
+      "widgetId": "languages",
+      "instanceId": "widget_1786925881066_3"
     },
     {
-      "widgetId": "footer",
-      "position": {
-        "x": 0,
-        "y": 586
-      },
+      "name": "Footer Widget",
       "size": {
         "width": 800,
         "height": 50
       },
       "config": {},
       "locked": false,
-      "visible": true,
       "zIndex": 6,
-      "instanceId": "widget_1786925881066_5",
-      "name": "Footer Widget"
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 578
+      },
+      "widgetId": "footer",
+      "instanceId": "widget_1786925881066_5"
     },
     {
-      "instanceId": "widget_1786925974935",
-      "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
-      "position": {
-        "x": 8,
-        "y": 106
-      },
       "size": {
         "width": 280,
         "height": 280
       },
       "config": {
-        "accentColor": "#c5ff4a",
+        "cols": 150,
+        "rows": 75,
         "asciiText": [
           "               ` ` ` ` ` ` ` ` `` `` `` ` ` ``` ``````` `` ` ```````` `` `````````````````````````````````````````````````````````````````````````````",
           "  ` ` ` `  ` `         `  `  `  `  ` ` ` ` `  `   `   ` ` ` `` `  `  ` `` `  `  `  ` ` ` ` ` ` ` ` ```` `` `` ```````````````````````````````````````.",
@@ -171,6 +166,7 @@
           "-........`.....-..-.-.........-.-.-.-.-.---..`. `. ``'<v}}FTL(|(T?*!+>;=^,_:'.`       ` ```  `   ` ` ``````    `   `  `   `  `````````  `` ```     `  ",
           "-----------'-'---'-''---'''''-''''-''''--......`..`   `````.```````                 ` ``` `    ` ````````  `             ` `````````     ``         ` "
         ],
+        "accentColor": "#c5ff4a",
         "asciiColors": [
           [
             "#0a0b0f",
@@ -11572,182 +11568,186 @@
             "#080c15",
             "#070b14"
           ]
-        ],
-        "cols": 150,
-        "rows": 75
+        ]
       },
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
+      "position": {
+        "x": 8,
+        "y": 106
+      },
+      "widgetId": "asciiprofile-portrait",
+      "instanceId": "widget_1786925974935"
     },
     {
-      "instanceId": "widget_1787254650356",
-      "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
-      "position": {
-        "x": 648,
-        "y": 398
-      },
       "size": {
         "width": 128,
         "height": 168
       },
       "config": {
-        "searchQuery": "Charizard",
-        "searchCards": [
-          {
-            "id": "pl4-1",
-            "localId": "1",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/pl/pl4/1"
-          },
-          {
-            "id": "gym2-2",
-            "localId": "2",
-            "name": "Blaine's Charizard",
-            "image": "https://assets.tcgdex.net/en/gym/gym2/2"
-          },
-          {
-            "id": "lc-3",
-            "localId": "3",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/lc/lc/3"
-          },
-          {
-            "id": "dp3-3",
-            "localId": "3",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/dp/dp3/3"
-          },
-          {
-            "id": "base5-4",
-            "localId": "4",
-            "name": "Dark Charizard",
-            "image": "https://assets.tcgdex.net/en/base/base5/4"
-          },
-          {
-            "id": "base4-4",
-            "localId": "4",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/base/base4/4"
-          },
-          {
-            "id": "base1-4",
-            "localId": "4",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/base/base1/4"
-          },
-          {
-            "id": "ex14-4",
-            "localId": "4",
-            "name": "Charizard δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex14/4"
-          },
-          {
-            "id": "det1-5",
-            "localId": "5",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/sm/det1/5"
-          },
-          {
-            "id": "sv03.5-006",
-            "localId": "006",
-            "name": "Charizard ex",
-            "image": "https://assets.tcgdex.net/en/sv/sv03.5/006"
-          },
-          {
-            "id": "ecard1-6",
-            "localId": "6",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard1/6"
-          },
-          {
-            "id": "ex16-6",
-            "localId": "6",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/ex/ex16/6"
-          },
-          {
-            "id": "sm115-9",
-            "localId": "9",
-            "name": "Charizard GX",
-            "image": "https://assets.tcgdex.net/en/sm/sm115/9"
-          },
-          {
-            "id": "A2b-010",
-            "localId": "010",
-            "name": "Charizard ex",
-            "image": "https://assets.tcgdex.net/en/tcgp/A2b/010"
-          },
-          {
-            "id": "swsh10.5-010",
-            "localId": "010",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/010"
-          },
-          {
-            "id": "xy12-11",
-            "localId": "11",
-            "name": "Charizard",
-            "image": "https://assets.tcgdex.net/en/xy/xy12/11"
-          },
-          {
-            "id": "g1-11",
-            "localId": "11",
-            "name": "Charizard EX",
-            "image": "https://assets.tcgdex.net/en/xy/g1/11"
-          },
-          {
-            "id": "xy2-11",
-            "localId": "11",
-            "name": "Charizard EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy2/11"
-          },
-          {
-            "id": "swsh10.5-011",
-            "localId": "011",
-            "name": "Radiant Charizard",
-            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/011"
-          },
-          {
-            "id": "xy12-12",
-            "localId": "12",
-            "name": "Charizard EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy12/12"
-          }
-        ],
-        "imageUrl": "https://assets.tcgdex.net/en/lc/lc/3/high.webp",
-        "rotateX": 0,
-        "rotateY": 0,
+        "scale": 1,
         "glareX": 50,
         "glareY": 50,
         "shineX": 50,
         "shineY": 50,
+        "rotateX": 0,
+        "rotateY": 0,
+        "imageUrl": "https://assets.tcgdex.net/en/lc/lc/3/high.webp",
         "intensity": 1,
-        "scale": 1,
-        "hideDecorations": true,
-        "hideBorder": true
+        "hideBorder": true,
+        "searchCards": [
+          {
+            "id": "pl4-1",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/pl/pl4/1",
+            "localId": "1"
+          },
+          {
+            "id": "gym2-2",
+            "name": "Blaine's Charizard",
+            "image": "https://assets.tcgdex.net/en/gym/gym2/2",
+            "localId": "2"
+          },
+          {
+            "id": "lc-3",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/lc/lc/3",
+            "localId": "3"
+          },
+          {
+            "id": "dp3-3",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/dp/dp3/3",
+            "localId": "3"
+          },
+          {
+            "id": "base5-4",
+            "name": "Dark Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base5/4",
+            "localId": "4"
+          },
+          {
+            "id": "base4-4",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base4/4",
+            "localId": "4"
+          },
+          {
+            "id": "base1-4",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base1/4",
+            "localId": "4"
+          },
+          {
+            "id": "ex14-4",
+            "name": "Charizard δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex14/4",
+            "localId": "4"
+          },
+          {
+            "id": "det1-5",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/sm/det1/5",
+            "localId": "5"
+          },
+          {
+            "id": "sv03.5-006",
+            "name": "Charizard ex",
+            "image": "https://assets.tcgdex.net/en/sv/sv03.5/006",
+            "localId": "006"
+          },
+          {
+            "id": "ecard1-6",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/6",
+            "localId": "6"
+          },
+          {
+            "id": "ex16-6",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/ex/ex16/6",
+            "localId": "6"
+          },
+          {
+            "id": "sm115-9",
+            "name": "Charizard GX",
+            "image": "https://assets.tcgdex.net/en/sm/sm115/9",
+            "localId": "9"
+          },
+          {
+            "id": "A2b-010",
+            "name": "Charizard ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/A2b/010",
+            "localId": "010"
+          },
+          {
+            "id": "swsh10.5-010",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/010",
+            "localId": "010"
+          },
+          {
+            "id": "xy12-11",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/11",
+            "localId": "11"
+          },
+          {
+            "id": "g1-11",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/g1/11",
+            "localId": "11"
+          },
+          {
+            "id": "xy2-11",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy2/11",
+            "localId": "11"
+          },
+          {
+            "id": "swsh10.5-011",
+            "name": "Radiant Charizard",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/011",
+            "localId": "011"
+          },
+          {
+            "id": "xy12-12",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/12",
+            "localId": "12"
+          }
+        ],
+        "searchQuery": "Charizard",
+        "hideDecorations": true
       },
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
+      "position": {
+        "x": 648,
+        "y": 398
+      },
+      "widgetId": "pokemon-card",
+      "instanceId": "widget_1787254650356"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "padding": 24,
     "textColor": "#e5e5e5",
+    "themeMode": "dark",
+    "fontFamily": "'JetBrains Mono', monospace",
     "accentColor": "#c5ff4a",
     "borderColor": "#252525",
-    "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "padding": 24,
-    "themeMode": "dark",
-    "templateStyle": "terminal"
+    "templateStyle": "terminal",
+    "backgroundColor": "#060606"
   },
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1789601141357_44c2k",
-    "updatedAt": "2026-09-16T23:25:45.724Z"
+    "revision": "rev_1790344132334_kxbw2",
+    "updatedAt": "2026-09-25T13:48:56.728Z"
   }
 }
