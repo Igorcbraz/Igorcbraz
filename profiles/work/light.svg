@@ -315,7 +315,7 @@
             <!-- Star Folder Icon -->
             <path d="M 8 12 L 18 12 L 22 16 L 36 16 L 36 32 L 8 32 Z" fill="#f59e0b" stroke="#d97706" />
             <text x="44" y="20" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#0f172a">Stars &amp; Badges</text>
-            <text x="44" y="32" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">404 Stars Earned</text>
+            <text x="44" y="32" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">405 Stars Earned</text>
           </g>
 
           <!-- Followers / Network Folder -->
@@ -486,7 +486,7 @@
               My GitHub Artwork 🎨
             </text>
             <text y="24" font-family="'Courier New', Courier, monospace" font-size="12" fill="#475569">
-              Total Stars: 404 • Repos: 3 Displayed
+              Total Stars: 405 • Repos: 3 Displayed
             </text>
 
             <g transform="translate(0, 44)">
@@ -502,7 +502,7 @@
                       </text>
                       <polygon points="20,65 24,73 33,73 26,79 29,88 20,83 12,88 15,79 8,73 17,73" fill="#eab308" stroke="#ca8a04" />
                       <text x="38" y="80" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#b45309">
-                        ★ 286 Stars
+                        ★ 287 Stars
                       </text>
                     </g>
                   
@@ -695,6 +695,11 @@
           <rect x="264" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="286" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="286" y1="110" x2="306" y2="110" stroke="#ffffff" stroke-width="2" />
+          <line x1="286" y1="110" x2="286" y2="130" stroke="#ffffff" stroke-width="2" />
+          <polygon points="292,114 300,118 292,122" fill="#ff0000" />
+          <line x1="292" y1="114" x2="292" y2="127" stroke="#000000" stroke-width="1.5" />
+          <rect x="290" y="125" width="8" height="2" fill="#000000" />
         
           <rect x="308" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="308" y1="110" x2="328" y2="110" stroke="#ffffff" stroke-width="2" />
@@ -704,26 +709,22 @@
           <rect x="312" y="125" width="8" height="2" fill="#000000" />
         
           <rect x="330" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="330" y1="110" x2="350" y2="110" stroke="#ffffff" stroke-width="2" />
-          <line x1="330" y1="110" x2="330" y2="130" stroke="#ffffff" stroke-width="2" />
-          <polygon points="336,114 344,118 336,122" fill="#ff0000" />
-          <line x1="336" y1="114" x2="336" y2="127" stroke="#000000" stroke-width="1.5" />
-          <rect x="334" y="125" width="8" height="2" fill="#000000" />
+          <text x="337" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="352" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="352" y1="110" x2="372" y2="110" stroke="#ffffff" stroke-width="2" />
+          <line x1="352" y1="110" x2="352" y2="130" stroke="#ffffff" stroke-width="2" />
+          <polygon points="358,114 366,118 358,122" fill="#ff0000" />
+          <line x1="358" y1="114" x2="358" y2="127" stroke="#000000" stroke-width="1.5" />
+          <rect x="356" y="125" width="8" height="2" fill="#000000" />
         
           <rect x="374" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="374" y1="110" x2="394" y2="110" stroke="#ffffff" stroke-width="2" />
-          <line x1="374" y1="110" x2="374" y2="130" stroke="#ffffff" stroke-width="2" />
-          <polygon points="380,114 388,118 380,122" fill="#ff0000" />
-          <line x1="380" y1="114" x2="380" y2="127" stroke="#000000" stroke-width="1.5" />
-          <rect x="378" y="125" width="8" height="2" fill="#000000" />
+          <text x="381" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="396" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="403" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="418" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="425" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="440" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="447" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
@@ -732,24 +733,29 @@
           <text x="73" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="88" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="88" y1="132" x2="108" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="88" y1="132" x2="88" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="94,136 102,140 94,144" fill="#ff0000" />
+          <line x1="94" y1="136" x2="94" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="92" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="110" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="110" y1="132" x2="130" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="110" y1="132" x2="110" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="116,136 124,140 116,144" fill="#ff0000" />
-          <line x1="116" y1="136" x2="116" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="114" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="132" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="132" y1="132" x2="152" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="132" y1="132" x2="132" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="138,136 146,140 138,144" fill="#ff0000" />
+          <line x1="138" y1="136" x2="138" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="136" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="154" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="154" y1="132" x2="174" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="154" y1="132" x2="154" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="160,136 168,140 160,144" fill="#ff0000" />
-          <line x1="160" y1="136" x2="160" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="158" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="176" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="176" y1="132" x2="196" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="176" y1="132" x2="176" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="182,136 190,140 182,144" fill="#ff0000" />
+          <line x1="182" y1="136" x2="182" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="180" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="198" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="198" y1="132" x2="218" y2="132" stroke="#ffffff" stroke-width="2" />
@@ -759,9 +765,14 @@
           <rect x="202" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="220" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="227" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="242" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="249" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+          <line x1="242" y1="132" x2="262" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="242" y1="132" x2="242" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="248,136 256,140 248,144" fill="#ff0000" />
+          <line x1="248" y1="136" x2="248" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="246" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="264" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="264" y1="132" x2="284" y2="132" stroke="#ffffff" stroke-width="2" />
@@ -771,20 +782,20 @@
           <rect x="268" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="286" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="286" y1="132" x2="306" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="286" y1="132" x2="286" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="292,136 300,140 292,144" fill="#ff0000" />
-          <line x1="292" y1="136" x2="292" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="290" y="147" width="8" height="2" fill="#000000" />
+          <text x="293" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="308" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="315" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="330" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="337" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+          <text x="337" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="352" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="359" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+          <line x1="352" y1="132" x2="372" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="352" y1="132" x2="352" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="358,136 366,140 358,144" fill="#ff0000" />
+          <line x1="358" y1="136" x2="358" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="356" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="374" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="374" y1="132" x2="394" y2="132" stroke="#ffffff" stroke-width="2" />
@@ -808,11 +819,7 @@
           <rect x="422" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="440" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="440" y1="132" x2="460" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="440" y1="132" x2="440" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="446,136 454,140 446,144" fill="#ff0000" />
-          <line x1="446" y1="136" x2="446" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="444" y="147" width="8" height="2" fill="#000000" />
+          <text x="447" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="66" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="66" y1="154" x2="86" y2="154" stroke="#ffffff" stroke-width="2" />
@@ -829,16 +836,16 @@
           <rect x="92" y="169" width="8" height="2" fill="#000000" />
         
           <rect x="110" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="110" y1="154" x2="130" y2="154" stroke="#ffffff" stroke-width="2" />
-          <line x1="110" y1="154" x2="110" y2="174" stroke="#ffffff" stroke-width="2" />
-          <polygon points="116,158 124,162 116,166" fill="#ff0000" />
-          <line x1="116" y1="158" x2="116" y2="171" stroke="#000000" stroke-width="1.5" />
-          <rect x="114" y="169" width="8" height="2" fill="#000000" />
+          <text x="117" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="132" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="139" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="154" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="154" y1="154" x2="174" y2="154" stroke="#ffffff" stroke-width="2" />
+          <line x1="154" y1="154" x2="154" y2="174" stroke="#ffffff" stroke-width="2" />
+          <polygon points="160,158 168,162 160,166" fill="#ff0000" />
+          <line x1="160" y1="158" x2="160" y2="171" stroke="#000000" stroke-width="1.5" />
+          <rect x="158" y="169" width="8" height="2" fill="#000000" />
         
           <rect x="176" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="176" y1="154" x2="196" y2="154" stroke="#ffffff" stroke-width="2" />
@@ -862,14 +869,14 @@
           <rect x="224" y="169" width="8" height="2" fill="#000000" />
         
           <rect x="242" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="242" y1="154" x2="262" y2="154" stroke="#ffffff" stroke-width="2" />
-          <line x1="242" y1="154" x2="242" y2="174" stroke="#ffffff" stroke-width="2" />
-          <polygon points="248,158 256,162 248,166" fill="#ff0000" />
-          <line x1="248" y1="158" x2="248" y2="171" stroke="#000000" stroke-width="1.5" />
-          <rect x="246" y="169" width="8" height="2" fill="#000000" />
+          <text x="249" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="264" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="271" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+          <line x1="264" y1="154" x2="284" y2="154" stroke="#ffffff" stroke-width="2" />
+          <line x1="264" y1="154" x2="264" y2="174" stroke="#ffffff" stroke-width="2" />
+          <polygon points="270,158 278,162 270,166" fill="#ff0000" />
+          <line x1="270" y1="158" x2="270" y2="171" stroke="#000000" stroke-width="1.5" />
+          <rect x="268" y="169" width="8" height="2" fill="#000000" />
         
           <rect x="286" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="286" y1="154" x2="306" y2="154" stroke="#ffffff" stroke-width="2" />
@@ -914,24 +921,19 @@
           <rect x="400" y="169" width="8" height="2" fill="#000000" />
         
           <rect x="418" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="418" y1="154" x2="438" y2="154" stroke="#ffffff" stroke-width="2" />
-          <line x1="418" y1="154" x2="418" y2="174" stroke="#ffffff" stroke-width="2" />
-          <polygon points="424,158 432,162 424,166" fill="#ff0000" />
-          <line x1="424" y1="158" x2="424" y2="171" stroke="#000000" stroke-width="1.5" />
-          <rect x="422" y="169" width="8" height="2" fill="#000000" />
+          <text x="425" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="440" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="447" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="66" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="66" y1="176" x2="86" y2="176" stroke="#ffffff" stroke-width="2" />
-          <line x1="66" y1="176" x2="66" y2="196" stroke="#ffffff" stroke-width="2" />
-          <polygon points="72,180 80,184 72,188" fill="#ff0000" />
-          <line x1="72" y1="180" x2="72" y2="193" stroke="#000000" stroke-width="1.5" />
-          <rect x="70" y="191" width="8" height="2" fill="#000000" />
+          <text x="73" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="88" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="95" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+          <line x1="88" y1="176" x2="108" y2="176" stroke="#ffffff" stroke-width="2" />
+          <line x1="88" y1="176" x2="88" y2="196" stroke="#ffffff" stroke-width="2" />
+          <polygon points="94,180 102,184 94,188" fill="#ff0000" />
+          <line x1="94" y1="180" x2="94" y2="193" stroke="#000000" stroke-width="1.5" />
+          <rect x="92" y="191" width="8" height="2" fill="#000000" />
         
           <rect x="110" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="110" y1="176" x2="130" y2="176" stroke="#ffffff" stroke-width="2" />
@@ -948,19 +950,19 @@
           <rect x="136" y="191" width="8" height="2" fill="#000000" />
         
           <rect x="154" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="154" y1="176" x2="174" y2="176" stroke="#ffffff" stroke-width="2" />
-          <line x1="154" y1="176" x2="154" y2="196" stroke="#ffffff" stroke-width="2" />
-          <polygon points="160,180 168,184 160,188" fill="#ff0000" />
-          <line x1="160" y1="180" x2="160" y2="193" stroke="#000000" stroke-width="1.5" />
-          <rect x="158" y="191" width="8" height="2" fill="#000000" />
+          <text x="161" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="176" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="183" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="198" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="205" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="220" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="227" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+          <line x1="220" y1="176" x2="240" y2="176" stroke="#ffffff" stroke-width="2" />
+          <line x1="220" y1="176" x2="220" y2="196" stroke="#ffffff" stroke-width="2" />
+          <polygon points="226,180 234,184 226,188" fill="#ff0000" />
+          <line x1="226" y1="180" x2="226" y2="193" stroke="#000000" stroke-width="1.5" />
+          <rect x="224" y="191" width="8" height="2" fill="#000000" />
         
           <rect x="242" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="242" y1="176" x2="262" y2="176" stroke="#ffffff" stroke-width="2" />
@@ -1019,51 +1021,46 @@
           <rect x="400" y="191" width="8" height="2" fill="#000000" />
         
           <rect x="418" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="418" y1="176" x2="438" y2="176" stroke="#ffffff" stroke-width="2" />
-          <line x1="418" y1="176" x2="418" y2="196" stroke="#ffffff" stroke-width="2" />
-          <polygon points="424,180 432,184 424,188" fill="#ff0000" />
-          <line x1="424" y1="180" x2="424" y2="193" stroke="#000000" stroke-width="1.5" />
-          <rect x="422" y="191" width="8" height="2" fill="#000000" />
+          <text x="425" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="440" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="447" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="66" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="66" y1="198" x2="86" y2="198" stroke="#ffffff" stroke-width="2" />
-          <line x1="66" y1="198" x2="66" y2="218" stroke="#ffffff" stroke-width="2" />
-          <polygon points="72,202 80,206 72,210" fill="#ff0000" />
-          <line x1="72" y1="202" x2="72" y2="215" stroke="#000000" stroke-width="1.5" />
-          <rect x="70" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="88" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="88" y1="198" x2="108" y2="198" stroke="#ffffff" stroke-width="2" />
+          <line x1="88" y1="198" x2="88" y2="218" stroke="#ffffff" stroke-width="2" />
+          <polygon points="94,202 102,206 94,210" fill="#ff0000" />
+          <line x1="94" y1="202" x2="94" y2="215" stroke="#000000" stroke-width="1.5" />
+          <rect x="92" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="110" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="110" y1="198" x2="130" y2="198" stroke="#ffffff" stroke-width="2" />
-          <line x1="110" y1="198" x2="110" y2="218" stroke="#ffffff" stroke-width="2" />
-          <polygon points="116,202 124,206 116,210" fill="#ff0000" />
-          <line x1="116" y1="202" x2="116" y2="215" stroke="#000000" stroke-width="1.5" />
-          <rect x="114" y="213" width="8" height="2" fill="#000000" />
+          <text x="117" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="132" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="139" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
+          <text x="139" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="154" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="161" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+          <line x1="154" y1="198" x2="174" y2="198" stroke="#ffffff" stroke-width="2" />
+          <line x1="154" y1="198" x2="154" y2="218" stroke="#ffffff" stroke-width="2" />
+          <polygon points="160,202 168,206 160,210" fill="#ff0000" />
+          <line x1="160" y1="202" x2="160" y2="215" stroke="#000000" stroke-width="1.5" />
+          <rect x="158" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="176" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="176" y1="198" x2="196" y2="198" stroke="#ffffff" stroke-width="2" />
-          <line x1="176" y1="198" x2="176" y2="218" stroke="#ffffff" stroke-width="2" />
-          <polygon points="182,202 190,206 182,210" fill="#ff0000" />
-          <line x1="182" y1="202" x2="182" y2="215" stroke="#000000" stroke-width="1.5" />
-          <rect x="180" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="198" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="205" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="220" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="227" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="242" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="249" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+          <line x1="242" y1="198" x2="262" y2="198" stroke="#ffffff" stroke-width="2" />
+          <line x1="242" y1="198" x2="242" y2="218" stroke="#ffffff" stroke-width="2" />
+          <polygon points="248,202 256,206 248,210" fill="#ff0000" />
+          <line x1="248" y1="202" x2="248" y2="215" stroke="#000000" stroke-width="1.5" />
+          <rect x="246" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="264" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="264" y1="198" x2="284" y2="198" stroke="#ffffff" stroke-width="2" />
@@ -1073,13 +1070,13 @@
           <rect x="268" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="286" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="286" y1="198" x2="306" y2="198" stroke="#ffffff" stroke-width="2" />
-          <line x1="286" y1="198" x2="286" y2="218" stroke="#ffffff" stroke-width="2" />
-          <polygon points="292,202 300,206 292,210" fill="#ff0000" />
-          <line x1="292" y1="202" x2="292" y2="215" stroke="#000000" stroke-width="1.5" />
-          <rect x="290" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="308" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="308" y1="198" x2="328" y2="198" stroke="#ffffff" stroke-width="2" />
+          <line x1="308" y1="198" x2="308" y2="218" stroke="#ffffff" stroke-width="2" />
+          <polygon points="314,202 322,206 314,210" fill="#ff0000" />
+          <line x1="314" y1="202" x2="314" y2="215" stroke="#000000" stroke-width="1.5" />
+          <rect x="312" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="330" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="330" y1="198" x2="350" y2="198" stroke="#ffffff" stroke-width="2" />
@@ -1089,14 +1086,14 @@
           <rect x="334" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="352" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="352" y1="198" x2="372" y2="198" stroke="#ffffff" stroke-width="2" />
-          <line x1="352" y1="198" x2="352" y2="218" stroke="#ffffff" stroke-width="2" />
-          <polygon points="358,202 366,206 358,210" fill="#ff0000" />
-          <line x1="358" y1="202" x2="358" y2="215" stroke="#000000" stroke-width="1.5" />
-          <rect x="356" y="213" width="8" height="2" fill="#000000" />
+          <text x="359" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="374" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="381" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+          <line x1="374" y1="198" x2="394" y2="198" stroke="#ffffff" stroke-width="2" />
+          <line x1="374" y1="198" x2="374" y2="218" stroke="#ffffff" stroke-width="2" />
+          <polygon points="380,202 388,206 380,210" fill="#ff0000" />
+          <line x1="380" y1="202" x2="380" y2="215" stroke="#000000" stroke-width="1.5" />
+          <rect x="378" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="396" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="396" y1="198" x2="416" y2="198" stroke="#ffffff" stroke-width="2" />
@@ -1106,17 +1103,17 @@
           <rect x="400" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="418" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="418" y1="198" x2="438" y2="198" stroke="#ffffff" stroke-width="2" />
-          <line x1="418" y1="198" x2="418" y2="218" stroke="#ffffff" stroke-width="2" />
-          <polygon points="424,202 432,206 424,210" fill="#ff0000" />
-          <line x1="424" y1="202" x2="424" y2="215" stroke="#000000" stroke-width="1.5" />
-          <rect x="422" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="440" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="66" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="88" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="88" y1="220" x2="108" y2="220" stroke="#ffffff" stroke-width="2" />
+          <line x1="88" y1="220" x2="88" y2="240" stroke="#ffffff" stroke-width="2" />
+          <polygon points="94,224 102,228 94,232" fill="#ff0000" />
+          <line x1="94" y1="224" x2="94" y2="237" stroke="#000000" stroke-width="1.5" />
+          <rect x="92" y="235" width="8" height="2" fill="#000000" />
         
           <rect x="110" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="110" y1="220" x2="130" y2="220" stroke="#ffffff" stroke-width="2" />
@@ -1133,14 +1130,9 @@
           <rect x="136" y="235" width="8" height="2" fill="#000000" />
         
           <rect x="154" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="154" y1="220" x2="174" y2="220" stroke="#ffffff" stroke-width="2" />
-          <line x1="154" y1="220" x2="154" y2="240" stroke="#ffffff" stroke-width="2" />
-          <polygon points="160,224 168,228 160,232" fill="#ff0000" />
-          <line x1="160" y1="224" x2="160" y2="237" stroke="#000000" stroke-width="1.5" />
-          <rect x="158" y="235" width="8" height="2" fill="#000000" />
+          <text x="161" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="176" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="183" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="198" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -1148,6 +1140,11 @@
           <text x="227" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="242" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="242" y1="220" x2="262" y2="220" stroke="#ffffff" stroke-width="2" />
+          <line x1="242" y1="220" x2="242" y2="240" stroke="#ffffff" stroke-width="2" />
+          <polygon points="248,224 256,228 248,232" fill="#ff0000" />
+          <line x1="248" y1="224" x2="248" y2="237" stroke="#000000" stroke-width="1.5" />
+          <rect x="246" y="235" width="8" height="2" fill="#000000" />
         
           <rect x="264" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="264" y1="220" x2="284" y2="220" stroke="#ffffff" stroke-width="2" />
@@ -1192,17 +1189,12 @@
           <rect x="378" y="235" width="8" height="2" fill="#000000" />
         
           <rect x="396" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="396" y1="220" x2="416" y2="220" stroke="#ffffff" stroke-width="2" />
-          <line x1="396" y1="220" x2="396" y2="240" stroke="#ffffff" stroke-width="2" />
-          <polygon points="402,224 410,228 402,232" fill="#ff0000" />
-          <line x1="402" y1="224" x2="402" y2="237" stroke="#000000" stroke-width="1.5" />
-          <rect x="400" y="235" width="8" height="2" fill="#000000" />
+          <text x="403" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="418" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="425" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
+          <text x="425" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="440" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="447" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
         </g>
 
