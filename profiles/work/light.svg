@@ -671,22 +671,23 @@
           <rect x="66" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="88" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="95" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="110" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="132" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="139" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="154" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="176" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="198" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="205" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="220" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="227" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="242" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="249" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="264" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="264" y1="110" x2="284" y2="110" stroke="#ffffff" stroke-width="2" />
@@ -718,11 +719,6 @@
           <text x="381" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="396" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="396" y1="110" x2="416" y2="110" stroke="#ffffff" stroke-width="2" />
-          <line x1="396" y1="110" x2="396" y2="130" stroke="#ffffff" stroke-width="2" />
-          <polygon points="402,114 410,118 402,122" fill="#ff0000" />
-          <line x1="402" y1="114" x2="402" y2="127" stroke="#000000" stroke-width="1.5" />
-          <rect x="400" y="125" width="8" height="2" fill="#000000" />
         
           <rect x="418" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="418" y1="110" x2="438" y2="110" stroke="#ffffff" stroke-width="2" />
@@ -732,6 +728,7 @@
           <rect x="422" y="125" width="8" height="2" fill="#000000" />
         
           <rect x="440" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="447" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="66" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="66" y1="132" x2="86" y2="132" stroke="#ffffff" stroke-width="2" />
@@ -759,6 +756,7 @@
           <rect x="158" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="176" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="183" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="198" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="205" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -818,6 +816,7 @@
           <text x="425" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="440" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="447" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="66" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="66" y1="154" x2="86" y2="154" stroke="#ffffff" stroke-width="2" />
@@ -948,6 +947,7 @@
           <text x="139" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="154" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="161" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="176" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="183" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
@@ -1026,7 +1026,6 @@
           <rect x="422" y="191" width="8" height="2" fill="#000000" />
         
           <rect x="440" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="447" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="66" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="66" y1="198" x2="86" y2="198" stroke="#ffffff" stroke-width="2" />
@@ -1049,7 +1048,6 @@
           <rect x="136" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="154" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="161" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="176" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="183" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
@@ -1072,6 +1070,11 @@
           <rect x="246" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="264" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="264" y1="198" x2="284" y2="198" stroke="#ffffff" stroke-width="2" />
+          <line x1="264" y1="198" x2="264" y2="218" stroke="#ffffff" stroke-width="2" />
+          <polygon points="270,202 278,206 270,210" fill="#ff0000" />
+          <line x1="270" y1="202" x2="270" y2="215" stroke="#000000" stroke-width="1.5" />
+          <rect x="268" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="286" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="286" y1="198" x2="306" y2="198" stroke="#ffffff" stroke-width="2" />
@@ -1136,7 +1139,6 @@
           <text x="139" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="154" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="161" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="176" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -1210,7 +1212,7 @@
 
         <!-- Bottom Game Stats Caption -->
         <text x="248" y="238" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">
-          🏆 Victory! 3598 Annual Commits Swept without detonating bugs.
+          🏆 Victory! 3490 Annual Commits Swept without detonating bugs.
         </text>
       </g>
     </svg>
