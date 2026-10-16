@@ -677,9 +677,13 @@
           <rect x="132" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="154" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="161" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="176" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="176" y1="110" x2="196" y2="110" stroke="#ffffff" stroke-width="2" />
+          <line x1="176" y1="110" x2="176" y2="130" stroke="#ffffff" stroke-width="2" />
+          <polygon points="182,114 190,118 182,122" fill="#ff0000" />
+          <line x1="182" y1="114" x2="182" y2="127" stroke="#000000" stroke-width="1.5" />
+          <rect x="180" y="125" width="8" height="2" fill="#000000" />
         
           <rect x="198" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -748,6 +752,11 @@
           <rect x="136" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="154" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="154" y1="132" x2="174" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="154" y1="132" x2="154" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="160,136 168,140 160,144" fill="#ff0000" />
+          <line x1="160" y1="136" x2="160" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="158" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="176" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="183" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -1113,7 +1122,6 @@
           <rect x="132" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="154" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="161" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="176" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="183" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -1181,15 +1189,19 @@
           <text x="403" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="418" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="425" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="440" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="440" y1="220" x2="460" y2="220" stroke="#ffffff" stroke-width="2" />
+          <line x1="440" y1="220" x2="440" y2="240" stroke="#ffffff" stroke-width="2" />
+          <polygon points="446,224 454,228 446,232" fill="#ff0000" />
+          <line x1="446" y1="224" x2="446" y2="237" stroke="#000000" stroke-width="1.5" />
+          <rect x="444" y="235" width="8" height="2" fill="#000000" />
         
         </g>
 
         <!-- Bottom Game Stats Caption -->
         <text x="248" y="238" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">
-          🏆 Victory! 3380 Annual Commits Swept without detonating bugs.
+          🏆 Victory! 3381 Annual Commits Swept without detonating bugs.
         </text>
       </g>
     </svg>
