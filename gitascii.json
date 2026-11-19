@@ -64,23 +64,6 @@
       "instanceId": "widget_1786925881066_3"
     },
     {
-      "name": "Footer Widget",
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "zIndex": 6,
-      "visible": true,
-      "position": {
-        "x": 0,
-        "y": 578
-      },
-      "widgetId": "footer",
-      "instanceId": "widget_1786925881066_5"
-    },
-    {
       "name": "Asciiprofile-portrait Widget",
       "size": {
         "width": 280,
@@ -11747,7 +11730,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790344132334_kxbw2",
-    "updatedAt": "2026-09-25T13:48:56.728Z"
+    "revision": "rev_1795048662075_y5q97",
+    "updatedAt": "2026-11-19T00:37:46.241Z"
   }
 }
